@@ -1,0 +1,22 @@
+
+bot_kick
+sv_cheats 1
+game_mode 1
+sv_infinite_ammo 1
+mp_roundtime_defuse 60
+mp_roundtime 60
+mp_ignore_round_win_conditions 1
+mp_maxmoney 500000000
+impulse 101
+sv_showimpacts 1
+sv_showimpacts_time 6
+sv_showbullethits 1
+sv_grenade_trajectory 1
+mp_buy_anywhere 1
+mp_buytime 3600
+mp_freezetime 3
+mp_limitteams 0
+mp_autoteambalance 0
+mp_autokick 0
+ammo_grenade_limit_total 7
+endround
