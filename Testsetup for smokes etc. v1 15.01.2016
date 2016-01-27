@@ -18,5 +18,6 @@ mp_freezetime 3
 mp_limitteams 0
 mp_autoteambalance 0
 mp_autokick 0
+mp_free_armor 1
 ammo_grenade_limit_total 7
 endround
