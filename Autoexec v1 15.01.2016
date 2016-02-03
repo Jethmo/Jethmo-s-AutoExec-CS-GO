@@ -179,6 +179,7 @@ cl_interp "0"	///something with interpolation, not sure, probably helps performa
 
 cl_interp_ratio "1"	///something with interpolation, not sure, probably helps performance
 
+zoom_sensitivity_ratio_mouse "0.818933027098955175"	///https://www.reddit.com/r/GlobalOffensive/comments/43urd4/why_0818933027098955175_is_the_best_zoom/
 
 
 
